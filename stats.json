@@ -1,0 +1,404 @@
+{
+  "repositories": [
+    {
+      "name": "maryam-othmann5/Slint",
+      "stars": 1,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Rust",
+          "size": 1742,
+          "color": "#dea584"
+        },
+        {
+          "name": "Slint",
+          "size": 1635,
+          "color": "#2379F4"
+        },
+        {
+          "name": "Shell",
+          "size": 1457,
+          "color": "#89e051"
+        },
+        {
+          "name": "Nix",
+          "size": 1349,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "CMake",
+          "size": 1105,
+          "color": "#DA3434"
+        },
+        {
+          "name": "Python",
+          "size": 720,
+          "color": "#3572A5"
+        },
+        {
+          "name": "C++",
+          "size": 668,
+          "color": "#f34b7d"
+        }
+      ],
+      "lines_changed": 52363,
+      "views": 23,
+      "private": false
+    },
+    {
+      "name": "Masrkai/LicenseWise",
+      "stars": 3,
+      "forks": 1,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 77159,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Prolog",
+          "size": 38996,
+          "color": "#74283c"
+        },
+        {
+          "name": "Slint",
+          "size": 18794,
+          "color": "#2379F4"
+        },
+        {
+          "name": "Nix",
+          "size": 2658,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 3845,
+      "views": 20,
+      "private": false
+    },
+    {
+      "name": "Masrkai/SST-Systems_Stress_Tester",
+      "stars": 2,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "C++",
+          "size": 61337,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "Shell",
+          "size": 8053,
+          "color": "#89e051"
+        },
+        {
+          "name": "CMake",
+          "size": 3373,
+          "color": "#DA3434"
+        },
+        {
+          "name": "Nix",
+          "size": 2001,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 3,
+      "views": 13,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/maryam-othmann5",
+      "stars": 0,
+      "forks": 0,
+      "languages": [],
+      "lines_changed": 599,
+      "views": 7,
+      "private": false
+    },
+    {
+      "name": "dev-ahmedkhaled/Linux_Assistant",
+      "stars": 2,
+      "forks": 2,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 139107,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 3842,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "Shell",
+          "size": 368,
+          "color": "#89e051"
+        }
+      ],
+      "lines_changed": 11203,
+      "views": 2,
+      "private": false
+    },
+    {
+      "name": "Masrkai/EcoMeter",
+      "stars": 3,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 11371,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 1938,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 1808,
+      "views": 1,
+      "private": false
+    },
+    {
+      "name": "Masrkai/Job_Market_Analysis",
+      "stars": 1,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 186794,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 2658,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 0,
+      "views": 1,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/ChatBot_UI",
+      "stars": 1,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 40873,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 2269,
+      "views": 1,
+      "private": false
+    },
+    {
+      "name": "Masrkai/OS_Scheduling",
+      "stars": 2,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "C",
+          "size": 82135,
+          "color": "#555555"
+        },
+        {
+          "name": "Makefile",
+          "size": 9833,
+          "color": "#427819"
+        },
+        {
+          "name": "Shell",
+          "size": 4710,
+          "color": "#89e051"
+        },
+        {
+          "name": "Nix",
+          "size": 1732,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "CSS",
+          "size": 1092,
+          "color": "#663399"
+        }
+      ],
+      "lines_changed": 1849,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "Masrkai/NetSec",
+      "stars": 2,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 58186,
+          "color": "#3572A5"
+        },
+        {
+          "name": "CSS",
+          "size": 2365,
+          "color": "#663399"
+        },
+        {
+          "name": "Shell",
+          "size": 1103,
+          "color": "#89e051"
+        },
+        {
+          "name": "Nix",
+          "size": 925,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 1090,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "dev-ahmedkhaled/mnist-cnn-rnn",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 22605,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 1597,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "dev-ahmedkhaled/numerical-optimization-lab",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 24044,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 1043,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 17,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/tdd-bdd-final-project",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 61594,
+          "color": "#3572A5"
+        },
+        {
+          "name": "JavaScript",
+          "size": 7701,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "size": 5365,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Gherkin",
+          "size": 5187,
+          "color": "#5B2063"
+        },
+        {
+          "name": "Dockerfile",
+          "size": 1960,
+          "color": "#384d54"
+        },
+        {
+          "name": "Shell",
+          "size": 1873,
+          "color": "#89e051"
+        },
+        {
+          "name": "Makefile",
+          "size": 1533,
+          "color": "#427819"
+        },
+        {
+          "name": "Procfile",
+          "size": 76,
+          "color": "#3B2F63"
+        }
+      ],
+      "lines_changed": 3276,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/CodeAlpha_Task_3_Stock_Portfolio_Tracker_using_API",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 7367,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 231,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/CodeAlpha_Task_Hangman_gane",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 1647,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 189,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/CodeAlpha_Task_2_Basic_Chatbot",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 2175,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 86,
+      "views": 0,
+      "private": false
+    }
+  ],
+  "user": "maryam-othmann5",
+  "name": "Mariam Othman ",
+  "emails": [
+    "mariamosman1551@gmail.com",
+    "153086283+maryam-othmann5@users.noreply.github.com"
+  ],
+  "repo_contributions": 10,
+  "issue_contributions": 1,
+  "commit_contributions": 71,
+  "pr_contributions": 13,
+  "review_contributions": 0
+}
