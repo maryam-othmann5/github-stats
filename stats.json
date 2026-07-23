@@ -82,26 +82,31 @@
       "languages": [
         {
           "name": "C++",
-          "size": 61337,
+          "size": 70097,
           "color": "#f34b7d"
         },
         {
+          "name": "Slint",
+          "size": 9352,
+          "color": "#2379F4"
+        },
+        {
           "name": "Shell",
-          "size": 8053,
+          "size": 8760,
           "color": "#89e051"
         },
         {
           "name": "CMake",
-          "size": 3373,
+          "size": 4937,
           "color": "#DA3434"
         },
         {
           "name": "Nix",
-          "size": 2001,
+          "size": 3748,
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 3,
+      "lines_changed": 1115,
       "views": 13,
       "private": false
     },
@@ -110,7 +115,7 @@
       "stars": 0,
       "forks": 0,
       "languages": [],
-      "lines_changed": 599,
+      "lines_changed": 645,
       "views": 7,
       "private": false
     },
@@ -136,6 +141,21 @@
         }
       ],
       "lines_changed": 11203,
+      "views": 2,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/ChatBot_UI",
+      "stars": 1,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 40873,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 2269,
       "views": 2,
       "private": false
     },
@@ -176,21 +196,6 @@
         }
       ],
       "lines_changed": 0,
-      "views": 1,
-      "private": false
-    },
-    {
-      "name": "maryam-othmann5/ChatBot_UI",
-      "stars": 1,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Python",
-          "size": 40873,
-          "color": "#3572A5"
-        }
-      ],
-      "lines_changed": 2269,
       "views": 1,
       "private": false
     },
@@ -398,7 +403,7 @@
   ],
   "repo_contributions": 10,
   "issue_contributions": 1,
-  "commit_contributions": 71,
+  "commit_contributions": 75,
   "pr_contributions": 13,
   "review_contributions": 0
 }
