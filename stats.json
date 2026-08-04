@@ -165,21 +165,6 @@
       "private": false
     },
     {
-      "name": "maryam-othmann5/ChatBot_UI",
-      "stars": 1,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Python",
-          "size": 40873,
-          "color": "#3572A5"
-        }
-      ],
-      "lines_changed": 2269,
-      "views": 2,
-      "private": false
-    },
-    {
       "name": "Masrkai/EcoMeter",
       "stars": 3,
       "forks": 0,
@@ -226,6 +211,21 @@
         }
       ],
       "lines_changed": 1090,
+      "views": 1,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/ChatBot_UI",
+      "stars": 1,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 40873,
+          "color": "#3572A5"
+        }
+      ],
+      "lines_changed": 2269,
       "views": 1,
       "private": false
     },
