@@ -32,7 +32,7 @@
         }
       ],
       "lines_changed": 1115,
-      "views": 35,
+      "views": 33,
       "private": false
     },
     {
@@ -81,36 +81,6 @@
       "private": false
     },
     {
-      "name": "Masrkai/LicenseWise",
-      "stars": 3,
-      "forks": 1,
-      "languages": [
-        {
-          "name": "Python",
-          "size": 77159,
-          "color": "#3572A5"
-        },
-        {
-          "name": "Prolog",
-          "size": 38996,
-          "color": "#74283c"
-        },
-        {
-          "name": "Slint",
-          "size": 18794,
-          "color": "#2379F4"
-        },
-        {
-          "name": "Nix",
-          "size": 2658,
-          "color": "#7e7eff"
-        }
-      ],
-      "lines_changed": 3845,
-      "views": 14,
-      "private": false
-    },
-    {
       "name": "Masrkai/Job_Market_Analysis",
       "stars": 1,
       "forks": 0,
@@ -136,7 +106,7 @@
       "forks": 0,
       "languages": [],
       "lines_changed": 645,
-      "views": 7,
+      "views": 6,
       "private": false
     },
     {
@@ -165,23 +135,33 @@
       "private": false
     },
     {
-      "name": "Masrkai/EcoMeter",
+      "name": "Masrkai/LicenseWise",
       "stars": 3,
-      "forks": 0,
+      "forks": 1,
       "languages": [
         {
           "name": "Python",
-          "size": 11371,
+          "size": 77159,
           "color": "#3572A5"
         },
         {
+          "name": "Prolog",
+          "size": 38996,
+          "color": "#74283c"
+        },
+        {
+          "name": "Slint",
+          "size": 18794,
+          "color": "#2379F4"
+        },
+        {
           "name": "Nix",
-          "size": 1938,
+          "size": 2658,
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 1808,
-      "views": 1,
+      "lines_changed": 3845,
+      "views": 2,
       "private": false
     },
     {
@@ -227,6 +207,26 @@
       ],
       "lines_changed": 2269,
       "views": 1,
+      "private": false
+    },
+    {
+      "name": "Masrkai/EcoMeter",
+      "stars": 3,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 11371,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 1938,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 1808,
+      "views": 0,
       "private": false
     },
     {
