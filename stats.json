@@ -32,7 +32,7 @@
         }
       ],
       "lines_changed": 1115,
-      "views": 3,
+      "views": 2,
       "private": false
     },
     {
@@ -67,6 +67,51 @@
         }
       ],
       "lines_changed": 1849,
+      "views": 1,
+      "private": false
+    },
+    {
+      "name": "maryam-othmann5/Slint",
+      "stars": 1,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Rust",
+          "size": 1742,
+          "color": "#dea584"
+        },
+        {
+          "name": "Slint",
+          "size": 1635,
+          "color": "#2379F4"
+        },
+        {
+          "name": "Shell",
+          "size": 1457,
+          "color": "#89e051"
+        },
+        {
+          "name": "Nix",
+          "size": 1349,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "CMake",
+          "size": 1105,
+          "color": "#DA3434"
+        },
+        {
+          "name": "Python",
+          "size": 720,
+          "color": "#3572A5"
+        },
+        {
+          "name": "C++",
+          "size": 668,
+          "color": "#f34b7d"
+        }
+      ],
+      "lines_changed": 52363,
       "views": 1,
       "private": false
     },
@@ -192,51 +237,6 @@
         }
       ],
       "lines_changed": 1090,
-      "views": 0,
-      "private": false
-    },
-    {
-      "name": "maryam-othmann5/Slint",
-      "stars": 1,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Rust",
-          "size": 1742,
-          "color": "#dea584"
-        },
-        {
-          "name": "Slint",
-          "size": 1635,
-          "color": "#2379F4"
-        },
-        {
-          "name": "Shell",
-          "size": 1457,
-          "color": "#89e051"
-        },
-        {
-          "name": "Nix",
-          "size": 1349,
-          "color": "#7e7eff"
-        },
-        {
-          "name": "CMake",
-          "size": 1105,
-          "color": "#DA3434"
-        },
-        {
-          "name": "Python",
-          "size": 720,
-          "color": "#3572A5"
-        },
-        {
-          "name": "C++",
-          "size": 668,
-          "color": "#f34b7d"
-        }
-      ],
-      "lines_changed": 52363,
       "views": 0,
       "private": false
     },
