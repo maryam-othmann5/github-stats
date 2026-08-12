@@ -36,6 +36,26 @@
       "private": false
     },
     {
+      "name": "dev-ahmedkhaled/numerical-optimization-lab",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 24044,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 1043,
+          "color": "#7e7eff"
+        }
+      ],
+      "lines_changed": 17,
+      "views": 2,
+      "private": false
+    },
+    {
       "name": "Masrkai/OS_Scheduling",
       "stars": 2,
       "forks": 0,
@@ -276,26 +296,6 @@
         }
       ],
       "lines_changed": 1597,
-      "views": 0,
-      "private": false
-    },
-    {
-      "name": "dev-ahmedkhaled/numerical-optimization-lab",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Python",
-          "size": 24044,
-          "color": "#3572A5"
-        },
-        {
-          "name": "Nix",
-          "size": 1043,
-          "color": "#7e7eff"
-        }
-      ],
-      "lines_changed": 17,
       "views": 0,
       "private": false
     },
