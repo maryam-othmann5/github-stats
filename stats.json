@@ -56,41 +56,6 @@
       "private": false
     },
     {
-      "name": "Masrkai/OS_Scheduling",
-      "stars": 2,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "C",
-          "size": 82135,
-          "color": "#555555"
-        },
-        {
-          "name": "Makefile",
-          "size": 9833,
-          "color": "#427819"
-        },
-        {
-          "name": "Shell",
-          "size": 4710,
-          "color": "#89e051"
-        },
-        {
-          "name": "Nix",
-          "size": 1732,
-          "color": "#7e7eff"
-        },
-        {
-          "name": "CSS",
-          "size": 1092,
-          "color": "#663399"
-        }
-      ],
-      "lines_changed": 1849,
-      "views": 1,
-      "private": false
-    },
-    {
       "name": "maryam-othmann5/Slint",
       "stars": 1,
       "forks": 0,
@@ -132,6 +97,41 @@
         }
       ],
       "lines_changed": 52363,
+      "views": 2,
+      "private": false
+    },
+    {
+      "name": "Masrkai/OS_Scheduling",
+      "stars": 2,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "C",
+          "size": 82135,
+          "color": "#555555"
+        },
+        {
+          "name": "Makefile",
+          "size": 9833,
+          "color": "#427819"
+        },
+        {
+          "name": "Shell",
+          "size": 4710,
+          "color": "#89e051"
+        },
+        {
+          "name": "Nix",
+          "size": 1732,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "CSS",
+          "size": 1092,
+          "color": "#663399"
+        }
+      ],
+      "lines_changed": 1849,
       "views": 1,
       "private": false
     },
